@@ -23,4 +23,5 @@ int main()
         }
         cout<<"Case "<<i<<": "<<cnt<<endl;
     }
+    return 0;
 }
